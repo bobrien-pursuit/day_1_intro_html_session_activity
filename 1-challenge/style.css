@@ -1,0 +1,14 @@
+*{
+    border: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica;
+}
+.image{
+    margin-left: 5%;
+    margin-bottom: 0px;
+    height: 300px;
+    width: 190px;
+}
+figcaption{
+    font-style: italic;
+}
